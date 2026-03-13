@@ -1,6 +1,3 @@
-# Shaik-Sameer
-The place to know about me 
-
 # Hi there, I'm Sameer! 👋
 
 🚀 **Robotics & Autonomous Systems Engineer | Automotive Engineering Intern | IoT & AI Enthusiast**
