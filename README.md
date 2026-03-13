@@ -106,8 +106,8 @@ I am open to collaborating on projects related to:
 
 ## 📫 Contact Me
 
-💼 LinkedIn: (Add your LinkedIn)
-📧 Email: (Add email)
+💼 LinkedIn: ()
+📧 Email: (Shaiksameer0703@gmail.com)
 🌐 Portfolio: (Add website if you build one)
 
 ---
